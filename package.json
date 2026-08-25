@@ -1,0 +1,10 @@
+{
+  "name": "liquidity-hunter",
+  "version": "1.0.0",
+  "description": "Scan crypto and US-equity daily candles for liquidity sweeps (stop hunts). Methodology notes in METHODOLOGY.md.",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "serve": "python -m http.server 5035 --bind 127.0.0.1"
+  }
+}
